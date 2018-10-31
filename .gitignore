@@ -142,3 +142,4 @@ pip-selfcheck.json
 build/
 dist/
 breaknot.spec
+.vscode/
